@@ -5,3 +5,6 @@ Team Leader : 20221053
 2nd Team Member: 김지혁
 2nd Team Member: 20241051
 Project 05 version2 completed
+3rd Team Member: 김수연
+3rd Team Member: 20241048
+Project 05 version3 completed
